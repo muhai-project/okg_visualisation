@@ -21,3 +21,5 @@ OR inequalities)lang:en.” This forms a sample of 62015 tweets published from M
 2020, and the OKG contains both metadata and linguistic information about the tweets of this sample. The
 visualizations of the OKG data are presented in this document, including brief interpretations and the R
 code used to create them.
+
+The 2-min video with a brief overview can be found [here](https://prezi.com/v/view/iyqvTq3ta1l9Cc34VjUI/).
